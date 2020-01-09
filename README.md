@@ -7,7 +7,6 @@ run.sh is a bash script to run the program
 
 From file:
 -------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------
 IP credit ~ Argonne National Laboratory
 
 	Isaac Lehman ~ COMP322 ~ Laplace Heat Distribution
